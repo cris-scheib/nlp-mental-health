@@ -1,0 +1,275 @@
+{
+   "intents":[
+      {
+         "tag":"saudacao",
+         "input":[
+            "oi",
+            "oi, fred",
+            "fred",
+            "freudulino",
+            "ola",
+            "ola, fred",
+            "prazer em conheca-lo(a)",
+            "oie",
+            "oiee",
+            "oieee",
+            "ei",
+            "oi bom conhece-lo",
+            "olá",
+            "alguém ai?"
+         ],
+         "responses":[
+            "oie, você precisa de ajuda?",
+            "bem-vindo, como posso ajudá-lo?",
+            "oie querido(a), em que posso ajudar?",
+            "oi anjo, o que você precisa?",
+            "olá meu amigo, como posso ajudá-lo?",
+            "que bom que você apareceu. como você está?"
+         ]
+      },
+      {
+         "tag":"tchau",
+         "input":[
+            "obrigada",
+            "obrigado",
+            "obrigada pela ajuda",
+            "obrigado pela ajuda",
+            "tchau",
+            "valeu",
+            "vlw",
+            "obg",
+            "tchauzinho",
+            "okay tchau",
+            "okay",
+            "ate depois",
+            "ate mais",
+            "ate breve",
+            "okay até depois"
+         ],
+         "responses":[
+            "okay tchau",
+            "okay tchau <3",
+            "tenha um bom dia",
+            "até depois",
+            "até mais :D",
+            "até breve",
+            "tchauzinho",
+            "see you later",
+            "foi uma ótima conversa. até mais",
+            "te vejo mais tarde",
+            "okay, tenha um bom dia",
+            "se cuida",
+            "okay, se cuida",
+            "okay, boa sorte"
+         ]
+      },
+      {
+         "tag":"estar",
+         "input":[
+            "como voce esta?",
+            "eu estou bem, como vai voce?",
+            "voce está bem?",
+            "como vao as coisas?",
+            "esta tudo bem?",
+            "como este tudo ai?",
+            "como vai tudo?",
+            "tudo certo?",
+            "como tu ta?",
+            "como tao as coisas?",
+            "esta tudo bem ?"
+         ],
+         "responses":[
+            "estou bem",
+            "tudo vai bem",
+            "as coisas estão ótimas",
+            "tudo bem, nada muito acontecendo na minha vida",
+            "eu estou ótimo",
+            "está tudo ótimo.",
+            "estou indo bem. mas preciso de uma aventura"
+         ]
+      },
+      {
+         "tag":"quem",
+         "input":[
+            "quem e voce ?",
+            "o que voce e?",
+            "o que voce eh?",
+            "qual o seu nome?",
+            "voce e um chatbot?",
+            "como posso chama-lo?",
+            "seu nome?",
+            "voce é um robo?",
+            "como eu me dirijo a você?",
+            "como te chamo"
+         ],
+         "responses":[
+            "eu sou o grande Freudulino, mas você pode me chamar de Fred",
+            "eu sou o Freudulino, também conhecido como Fred e você pode me fazer perguntas sobre como está se sentindo",
+            "Freudulino ao seu serviço",
+            "meu nome é Freudulino e sim, eu sou um robo",
+            "você pode me chamar de Freudulino ou Fred e estou aqui para ajudá-lo",
+            "meu nome é Freudulino, mas sou conhecido como Fred e estou aqui para responder suas perguntas sobre como você está se sentindo"
+         ]
+      },
+      {
+         "tag":"quemafeta",
+         "input":[
+            "quem a doença mental afeta?",
+            "em quem a doença mental afeta?"
+         ],
+         "responses":[
+            "transtornos mentais são condições de saúde que perturbam os pensamentos, emoções, relacionamentos e funcionamento diário de uma pessoa.",
+            "transtornos mentais estão associados à angústia e à diminuição da capacidade de se envolver nas atividades comuns da vida diária.",
+            "é importante saber que as transtornos mentais são condições médicas que nada têm a ver com o caráter, a inteligência ou a força de vontade de uma pessoa.",
+            "assim como o diabetes é um distúrbio do pâncreas, a doença mental é uma condição médica devido à biologia do cérebro. Da mesma forma que se trata o diabetes com medicação e insulina, a doença mental é tratável com uma combinação de medicação e apoio social. ",
+            "esses tratamentos são altamente eficazes, com 70-90 por cento dos indivíduos que recebem tratamento experimentando uma redução nos sintomas e uma melhor qualidade de vida. ",
+            "com o tratamento adequado, é muito possível que uma pessoa com doença mental seja independente e bem-sucedida."
+         ]
+      },
+      {
+         "tag":"doencamental",
+         "input":[
+            "o que significa ter uma doença mental?",
+            "o que é?",
+            "o que são?",
+            "o que são transtornos mentais?",
+            "o que é uma doença mental?"
+         ],
+         "responses":[
+            "transtornos mentais são condições de saúde que perturbam os pensamentos, emoções, relacionamentos e funcionamento diário de uma pessoa.",
+            "transtornos mentais estão associados à angústia e à diminuição da capacidade de se envolver nas atividades comuns da vida diária.",
+            "é importante saber que as transtornos mentais são condições médicas que nada têm a ver com o caráter, a inteligência ou a força de vontade de uma pessoa.",
+            "assim como o diabetes é um distúrbio do pâncreas, a doença mental é uma condição médica devido à biologia do cérebro. Da mesma forma que se trata o diabetes com medicação e insulina, a doença mental é tratável com uma combinação de medicação e apoio social. ",
+            "esses tratamentos são altamente eficazes, com 70-90 por cento dos indivíduos que recebem tratamento experimentando uma redução nos sintomas e uma melhor qualidade de vida. ",
+            "com o tratamento adequado, é muito possível que uma pessoa com doença mental seja independente e bem-sucedida."
+         ]
+      },
+      {
+         "tag":"sinais",
+         "input":[
+            "quais os sinais da doença mental?",
+            "sinais de alerta de doença mental",
+            "quais os sintomas?",
+            "e os sintomas?",
+            "e quais sintomas?",
+            "e quais os sintomas?",
+            "como saber se eu tenho uma doença mental?",
+            "como saber se conheço alguem que tenha uma doença mental?",
+            "sintomas"
+         ],
+         "responses":[
+            "Os sintomas de distúrbios de saúde mental variam dependendo do tipo e gravidade da condição. ",
+            "Os sintoms em adultos podem ser: \n Tristeza ou irritabilidade de longa duração \n Altos e baixos extremos no humor \n Medo excessivo \n Preocupação ou ansiedade \n Retraimento social \n Mudanças drásticas nos hábitos alimentares ou de sono \n Fortes sentimentos de raiva \n Delírios ou alucinações \n Incapacidade crescente de lidar com problemas e atividades diárias \n Pensamentos de suicídio \n Negação de problemas óbvios \n Muitos problemas físicos inexplicáveis \n Abuso de drogas e/ou álcool \n Medo intenso de ganhar peso \n",
+            "Em crianças menores os sintomas são: \n Mudanças no desempenho escolar \n Notas baixas, apesar dos grandes esforços \n Preocupação excessiva ou ansiedade \n Hiperatividade \n Pesadelos persistentes \n Desobediência \n Comportamento agressivo"
+         ]
+      },
+      {
+         "tag":"tratamentos",
+         "input":[
+            "quais os tratamentos?",
+            "existe tratamento para transtornos mentais?",
+            "tem como se recuperar?",
+            "como melhorar de uma doença mental?",
+            "existe melhora?"
+         ],
+         "responses":[
+            "A identificação e o tratamento precoces são de vital importância. ",
+            "Com base na natureza da doença, há uma variedade de tratamentos eficazes disponíveis. ",
+            "Para qualquer tipo de tratamento, é essencial que a pessoa afetada seja proativa e totalmente engajada em seu próprio processo de recuperação. ",
+            "Muitas pessoas com transtornos mentais diagnosticadas e tratadas respondem bem, embora algumas possam apresentar um retorno dos sintomas.",
+            "Mesmo nesses casos, com acompanhamento cuidadoso e manejo do transtorno, ainda é possível viver uma vida plena e produtiva."
+         ]
+      },
+      {
+         "tag":"tipostratamentos",
+         "input":[
+            "quais opçoes de tratamento disponivel?",
+            "quais opçoes de tratamento?",
+            "quais saos os tipos de tratamentos?",
+            "quais saos as opçoes de tratamentos?"
+         ],
+         "responses":[
+            "Assim como existem diferentes tipos de medicamentos para doenças físicas, diferentes opções de tratamento estão disponíveis para indivíduos com transtornos mentais. ",
+            "O tratamento funciona de forma diferente para pessoas diferentes.",
+            "É importante encontrar o que melhor se adapte para cada situação."
+         ]
+      },
+      {
+         "tag":"prevenir",
+         "input":[
+            "tem como se prevenir de problemas de saúde mental?",
+            "existe prevençao?",
+            "como prevenir transtornos mentais?",
+            "prevenir transtornos mentais"
+         ],
+         "responses":[
+            "Todos nós podemos sofrer de desafios de saúde mental, mas desenvolver nosso bem-estar, resiliência e buscar ajuda precocemente pode ajudar a evitar que os desafios se tornem sérios.",
+            "Conversas, aconselhamento, medicamentos, amizades, exercícios, boa noite de sono e nutrição, e uma ocupação significativa podem ajudar."
+         ]
+      },
+      {
+         "tag":"cura",
+         "input":[
+            "existe cura para problemas de saúde mental?",
+            "existe cura para transtornos mentais?",
+            "posso me curar?",
+            "tem como me curar de transtornos mentais?",
+            "existe cura?"
+         ],
+         "responses":[
+            "Muitas vezes é mais realista e útil descobrir o que ajuda com os problemas que você enfrenta.",
+            "Conversas, aconselhamento, medicamentos, amizades, exercícios, boa noite de sono e nutrição, e uma ocupação significativa podem ajudar."
+         ]
+      },
+      {
+         "tag":"causas",
+         "input":[
+            "causas de problemas de saude mental?",
+            "causas de problemas de transtornos mentais?",
+            "quais sao as causas?",
+            "quais as causas?",
+            "quais podem ser as causas?"
+         ],
+         "responses":[
+            "Desafios ou problemas com sua saúde mental podem surgir de questões psicológicas, biológicas e sociais, bem como de eventos da vida.",
+            "Existems fatores genéticos, muito relacionados ao histórico familiar.",
+            "Fatores psicossociais, relacionados a casos de disfunções na vida familiar, no ambiente escolar, situações de estresse, entre outros.",
+            "Fatores biológicos, podendo ser relacionados a situações de anormalidades do sistema nervoso central, sejam elas causadas por lesões, infecções, desnutrição ou exposição a toxinas, como as drogas.",
+            "Fatores ambientais, relacionados a problemas enfrentados na comunidade (violência urbana) e tipos de possíveis abusos (físico, psicológico e sexual)."
+         ]
+      },
+      {
+         "tag":"semsuporte",
+         "input":[
+            "o que fazer se o suporte nao ajudar?",
+            "nao tenho suporte",
+            "nao tenho quem me ajude",
+            "nao tenho ajuda"
+         ],
+         "responses":[
+            "Pode ser difícil encontrar as coisas que o ajudarão, pois coisas diferentes ajudam pessoas diferentes.",
+            "É importante estar aberto a uma variedade de abordagens e estar comprometido em encontrar a ajuda certa e continuar esperançoso, mesmo quando algumas coisas não funcionam.",
+            "Existem varias equipes de apoio a transtornos mentais, grupos online e comunidades que podem te auxilixar, lembre-se, você não está sozinho nessa."
+         ]
+      },
+      {
+         "tag":"sozinho",
+         "input":[
+            "o que posso fazer se eu me sentir solitario?",
+            "o que posso fazer se eu me sentir solitaria?",
+            "o que posso fazer se eu me sentir sozinho?",
+            "o que posso fazer se eu me sentir sozinha?",
+            "eu me sentir sozinha",
+            "eu me sentir sozinho",
+            "eu me sentir abandonado",
+            "eu me sentir abandonada"
+         ],
+         "responses":[
+            "Muitas pessoas estão sozinhas agora, mas não precisamos ficar sozinhas, estamos juntos nessa. As conexões sociais são uma oportunidade de buscar e compartilhar apoio, conversar sobre sentimentos difíceis, compartilhar uma risada, manter-se atualizado com os entes queridos e ajudar uns aos outros a lidar. ",
+            "Todo mundo se sente solitário às vezes, talvez você tenha se mudado recentemente para uma nova cidade, esteja mudando seu círculo de amigos, tenha perdido alguém importante em sua vida ou perdido seu emprego e também perdeu importantes conexões sociais com colegas de trabalho.",
+            "Outras pessoas podem ter conexões físicas com outras, mas podem sentir que suas necessidades emocionais ou sociais não são atendidas. Estenda a mão para as conexões que você tem. Procure grupos de apoio da comunidade local e grupos de ajuda mútua nas mídias sociais. ",
+            "Procure grupos de apoio especializados. Os grupos de suporte estão se movendo online e há muitas linhas de suporte diferentes para ligar se você precisar falar com alguém. "
+         ]
+      }
+   ]
+}
